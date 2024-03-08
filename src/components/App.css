@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:900);
+
+.w-cs {
+  width: 800px !important;
+}
+.bg-cs {
+  background: url("https://images.pexels.com/photos/2736499/pexels-photo-2736499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
+    no-repeat center;
+}
+.text-cs {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  color: #088a22;
+  text-shadow: 0 0 0.15em #fff;
+  backdrop-filter: blur(10px);
+}
